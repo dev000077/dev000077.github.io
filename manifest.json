@@ -1,0 +1,61 @@
+{
+    "name": "പപ്പടം - Image Compressor",
+    "short_name": "പപ്പടം",
+    "start_url": "/?utm_medium=PWA&utm_source=launcher",
+    "display": "standalone",
+    "orientation": "any",
+    "background_color": "#fff",
+    "theme_color": "#FFA500",
+    "icons": [
+        {
+            "src": "/img/icon-large-cb438cac.png",
+            "type": "image/png",
+            "sizes": "1024x1024"
+        },
+        {
+            "src": "/img/maskable_icon-1024.png",
+            "type": "image/png",
+            "sizes": "1024x1024",
+            "purpose": "maskable"
+        }
+    ],
+    "description": "ഇമേജ് ഫയലുകളെ ഇടിച്ചു പപ്പടമാക്കാൻ ഒരു കമ്പ്രസർ വെബ് ആപ്പ്!",
+    "lang": "ml",
+    "categories": [
+        "photo",
+        "productivity",
+        "utilities"
+    ],
+    "screenshots": [
+        {
+            "src": "/img/screenshot1-0ff68546.png",
+            "type": "image/png",
+            "sizes": "540x720"
+        },
+        {
+            "src": "/img/screenshot2-1f78c4db.jpg",
+            "type": "image/jpeg",
+            "sizes": "540x720"
+        },
+        {
+            "src": "/img/screenshot3-c1e02216.jpg",
+            "type": "image/jpeg",
+            "sizes": "540x720"
+        }
+    ],
+    "share_target": {
+        "action": "/?utm_medium=PWA&utm_source=share-target&share-target",
+        "method": "POST",
+        "enctype": "multipart/form-data",
+        "params": {
+            "files": [
+                {
+                    "name": "file",
+                    "accept": [
+                        "image/*"
+                    ]
+                }
+            ]
+        }
+    }
+}
