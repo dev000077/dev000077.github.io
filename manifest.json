@@ -1,6 +1,6 @@
 {
-    "name": "ചുറ്റിക - Image Compressor",
-    "short_name": "ചുറ്റിക",
+    "name": "പപ്പടം - Image Compressor",
+    "short_name": "പപ്പടം",
     "start_url": "/?utm_medium=PWA&utm_source=launcher",
     "display": "standalone",
     "orientation": "any",
