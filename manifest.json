@@ -1,6 +1,6 @@
 {
-    "name": "പപ്പടം - Image Compressor",
-    "short_name": "പപ്പടം",
+    "name": "ചുറ്റിക - Image Compressor",
+    "short_name": "ചുറ്റിക",
     "start_url": "/?utm_medium=PWA&utm_source=launcher",
     "display": "standalone",
     "orientation": "any",
@@ -8,7 +8,7 @@
     "theme_color": "#FFA500",
     "icons": [
         {
-            "src": "/img/icon-large-cb438cac.png",
+            "src": "/img/favicon.ico",
             "type": "image/png",
             "sizes": "1024x1024"
         },
