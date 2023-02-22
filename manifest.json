@@ -27,11 +27,7 @@
         "utilities"
     ],
     "screenshots": [
-        {
-            "src": "/img/screenshot1-0ff68546.png",
-            "type": "image/png",
-            "sizes": "540x720"
-        },
+       
         {
             "src": "/img/screenshot2-1f78c4db.jpg",
             "type": "image/jpeg",
