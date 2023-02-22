@@ -8,12 +8,12 @@
     "theme_color": "#FFA500",
     "icons": [
         {
-            "src": "/img/icon-large-cb438cac.png",
+            "src": "/img/favicon.co",
             "type": "image/png",
             "sizes": "1024x1024"
         },
         {
-            "src": "/img/maskable_icon-1024.png",
+            "src": "/img/favicon.co",
             "type": "image/png",
             "sizes": "1024x1024",
             "purpose": "maskable"
