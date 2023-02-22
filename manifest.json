@@ -1,25 +1,25 @@
 {
-    "name": "പപ്പടം - Image Compressor",
-    "short_name": "പപ്പടം",
+    "name": "ചുറ്റിക - Image Compressor",
+    "short_name": "ചുറ്റിക",
     "start_url": "/?utm_medium=PWA&utm_source=launcher",
     "display": "standalone",
     "orientation": "any",
     "background_color": "#fff",
-    "theme_color": "#FFA500",
+    "theme_color": "#537FE7",
     "icons": [
         {
-            "src": "/img/favicon.co",
+            "src": "/img/favicon.ico",
             "type": "image/png",
             "sizes": "1024x1024"
         },
         {
-            "src": "/img/favicon.co",
+            "src": "/img/favicon.ico",
             "type": "image/png",
             "sizes": "1024x1024",
             "purpose": "maskable"
         }
     ],
-    "description": "ഇമേജ് ഫയലുകളെ ഇടിച്ചു പപ്പടമാക്കാൻ ഒരു കമ്പ്രസർ വെബ് ആപ്പ്!",
+    "description": "ഇമേജ് ഫയലുകളെ കമ്പ്രസ്സ് ചെയ്യാൻ ഒരു  വെബ് ആപ്പ്!",
     "lang": "ml",
     "categories": [
         "photo",
