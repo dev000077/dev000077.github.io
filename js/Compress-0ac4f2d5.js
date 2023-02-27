@@ -2624,7 +2624,7 @@ define(["require", "exports", "./initial-app-c3b1146f", "./util-d4fc8e28"], (fun
                 onChange: this.onQuantizerOptionsChange
             }) : null)) : null), i.h("h3", {
                 class: j
-            }, "പപ്പടമാക്കുക"), i.h("section", {
+            }, "പടമാക്കിയാലോ"), i.h("section", {
                 class: `${N} ${Y}`
             }, s ? i.h(de, {
                 value: t ? t.type : "identity",
