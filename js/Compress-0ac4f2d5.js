@@ -2636,7 +2636,7 @@ define(["require", "exports", "./initial-app-c3b1146f", "./util-d4fc8e28"], (fun
                 value: e
             }, t.meta.label))) : i.h(de, {
                 large: !0
-            }, i.h("option", null, "ഇപ്പൊ വരും…"))), i.h(pe, null, a && i.h(a, {
+            }, i.h("option", null, "ഇപ്പൊ വരും…നോക്കി ഇരുന്നോ.... "))), i.h(pe, null, a && i.h(a, {
                 options: t.options,
                 onChange: this.onEncoderOptionsChange
             })))
